@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coconvolution", "coconvolution\coconvolution.csproj", "{D1C5A843-F6DD-4096-BA15-12785ECABE3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{2CAE526F-EED1-44C6-8512-1E79C8D241CC}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		CheckList.txt = CheckList.txt
+		LICENSE.MIT.txt = LICENSE.MIT.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1C5A843-F6DD-4096-BA15-12785ECABE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C5A843-F6DD-4096-BA15-12785ECABE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C5A843-F6DD-4096-BA15-12785ECABE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C5A843-F6DD-4096-BA15-12785ECABE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AF2898E-6784-4748-BEA3-4DC91CBA6387}
+	EndGlobalSection
+EndGlobal
